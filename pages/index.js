@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Join the discord rn" />
         <p className="description">
-          <a href= https:discord.gg/xn3K28W9eu><button>Punchlords</button></a> </code>
+          <a href= discord.gg/xn3K28W9eu><button>Punchlords</button></a> </code>
         </p>
       </main>
 
